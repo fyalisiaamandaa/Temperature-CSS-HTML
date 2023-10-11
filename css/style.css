@@ -1,0 +1,55 @@
+.title1 {
+    text-align: center;
+    color: #2E475D;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:  #DBF9FC;
+}
+
+.container {
+    margin-top: 50px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    width: 500px;
+    background-color: #2E475D;
+    color: rgb(255, 255, 204);
+    text-align: center;
+}
+
+.input-label {
+    font-weight: bold;
+}
+
+input[type="number"] {
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+}
+
+#result {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    width: 320px;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+}
+
+.formula {
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    width: 500px;
+    border-radius: 5px;
+    color: rgb(255, 255, 204);
+    background-color: #2E475D;
+}
+
+
+#form {
+    font-size: 27px;
+    margin-top: 10px;
+}
